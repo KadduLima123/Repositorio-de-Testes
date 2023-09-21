@@ -38,7 +38,7 @@ Principal
 
 Secundário
 
--Fazer a maior pontuação.
+-Fazer a maior pontuação e obter a melhor avaliação.
 
 COMO JOGAR
 
@@ -59,7 +59,3 @@ CONDIÇÕES DE DERROTA
 QUESTÕES TÉCNICAS
 
 -Para confirmar a analise do objeto, fique por pelo menos cinco segundos apontando a câmera do seu dispositivo para o alvo desejado.
-
-OBSERVAÇÃO
-
--Ja existe um sistema de avaliação com base na pontuação e tempo em desenvolvimento. O mesmo foi retirado desta versão por problemas com a exibição da nota. Ele será colocado na proxima versão.
