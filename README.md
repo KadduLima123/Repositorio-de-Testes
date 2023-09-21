@@ -40,9 +40,11 @@ Secundário
 -Fazer a maior pontuação.
 
 COMO JOGAR
+
 Com o celular/smartphone, leia/ouça os enigmas e aponte com sua câmera para um dos alvos espalhados pelo ambiente para progredir para o próximo enigma. Para facilitar o entendimento para os jogadores, de forma a iniciar o jogo foi colocado o alvo do faraó como uma primeira experiência.
 
 PONTUAÇÃO
+
 Acertar um enigma gera 100 pontos e mais cinco segundos ao jogador.
 Errar um enigma gera -100 pontos e menos cinco segundos ao jogador.
 Achar um tesouro gera 200 pontos e mais 10 segundos ao jogador.
