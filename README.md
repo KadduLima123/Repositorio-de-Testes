@@ -48,6 +48,7 @@ Errar um enigma gera -100 pontos e menos cinco segundos ao jogador.
 Achar um tesouro gera 200 pontos e mais 10 segundos ao jogador.
 
 CONDIÇÕES DE DERROTA
+
 -Fim do tempo de jogo.
 
 -Ficar com a pontuação negativa.
