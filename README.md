@@ -31,6 +31,7 @@ JOGADOR(ES)
 -1 Jogador.
 
 OBJETIVO
+
 Principal
 
 -Completar todos os enigmas antes do tempo acabar.
