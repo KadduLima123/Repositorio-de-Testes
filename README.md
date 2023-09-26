@@ -58,4 +58,4 @@ CONDIÇÕES DE DERROTA
 
 QUESTÕES TÉCNICAS
 
--Para confirmar a analise do objeto, fique por pelo menos cinco segundos apontando a câmera do seu dispositivo para o alvo desejado.
+-Para confirmar a analise do objeto, aponte a câmera do seu dispositivo para o alvo desejado por pelo menos cinco segundos.
