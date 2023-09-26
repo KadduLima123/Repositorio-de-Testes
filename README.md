@@ -47,7 +47,7 @@ COMO JOGAR
 PONTUAÇÃO
 
 -Acertar um enigma gera 100 pontos e mais cinco segundos ao jogador.
--Errar um enigma gera -100 pontos e menos cinco segundos ao jogador.
+-Errar um enigma reduz 100 pontos e menos cinco segundos ao jogador.
 -Achar um tesouro gera 200 pontos e mais 10 segundos ao jogador.
 
 CONDIÇÕES DE DERROTA
